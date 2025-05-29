@@ -21,7 +21,7 @@ To run the project locally:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/pokemon-card-generator.git
+   git clone https://github.com/doutsophanha/pokemon-card-generator.git
 2.Navigate to the project folder:`cd pokemon-card-generator`
 
 3.Open index.html in your browser.
